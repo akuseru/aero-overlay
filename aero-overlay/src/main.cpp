@@ -66,7 +66,7 @@ int32_t main( int32_t argc, char** argv )
 
     auto* callback = overlay->add_callback(
         "test", []( Surface* surface ) {
-            surface->text( 5, 5, "default", 0xFFFFFFFF, "Aero Overlay by ReactiioN" );
+            surface->rect(5, 5, 50, 50, 0x960000ff);
        }
     );
     if( !callback ) {
