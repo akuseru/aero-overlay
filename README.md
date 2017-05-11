@@ -8,6 +8,5 @@ You need to clone the repository recursive using the `--recrusive` command.
 This fork is to show an issue with Windows 10 Creators Edition and WS_EX_LAYERED alpha transparency. 
 
 
-EEx
-
+Example:
 ![Demo](https://vgy.me/h8A8U1.png)
