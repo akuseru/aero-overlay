@@ -11,3 +11,8 @@ Example:
 
 
 ![Demo](https://vgy.me/h8A8U1.png)
+
+
+Without WS_EX_LAYERED:
+
+![Demo2](https://vgy.me/vMH3zg.png)
